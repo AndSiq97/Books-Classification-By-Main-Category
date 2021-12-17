@@ -1,2 +1,2 @@
 # Projects-Classification-By-Main-Category
-Classifying Books by Main Categories 
+Classifying Projects by Main Categories 
